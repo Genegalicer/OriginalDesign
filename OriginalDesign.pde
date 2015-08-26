@@ -6,11 +6,11 @@ void setup()
 void draw()
 {
 
-ellipse(100,100, 10,20);
+ellipse(10,10, 10,20);
 }
 void mousemoved()
 {
-ellipse(100,200,20,30);
+ellipse(10,20,20,30);
 }
 void mouseclicked()
 {
