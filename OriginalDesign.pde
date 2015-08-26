@@ -10,11 +10,11 @@ ellipse(10,10, 10,20);
 }
 void mousemoved()
 {
-ellipse(10,20,20,30);
+ellipse(mouseX-10,mouseY-20,20,30);
 }
 void mouseclicked()
 {
- rect(10,20,30,30);
+ rect(mouseX-10,mouseY-20,30,30);
 
 }
 
