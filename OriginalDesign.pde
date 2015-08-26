@@ -1,6 +1,7 @@
 void setup()
 {
 	size(200,200);
+	background(250,0,0);
 	
 }
 void mouseclicked()
